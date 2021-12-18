@@ -62,7 +62,7 @@ nav a{
 .fireworks{
     padding: 6px;
     background-color: white;
-    border:8px dotted lightblue;
+    border:4px dashed lightblue;
     border-radius: 9px;
 }
 img{
@@ -78,4 +78,11 @@ a{
       border:3px solid lightblue;
     border-radius: 5px;
     background-color: lightblue;
+}
+
+h1{
+    text-transform: uppercase;
+}
+.prod{
+    border:3px solid blue
 }
